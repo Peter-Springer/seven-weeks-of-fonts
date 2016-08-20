@@ -11,16 +11,22 @@ header {
 
 .week-1 {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  align-items:center;
   flex-direction: column;
   height: 50vh;
   background: grey;
 }
 
+.title {
+  border: 2px solid black;
+  font-weight: 900;
+  margin: 10px 0 80px 0;
+}
+
 h2 {
   font-family: 'Unna', serif;
   font-size: 30px;
+  margin-bottom: 50px;
 }
 
 h3 {
@@ -29,8 +35,15 @@ h3 {
 }
 
 .fire {
-  background-color: orange;
+  background-color: black;
+  color: #ff6300;
   font-weight: 900;
+  text-decoration: line-through;
+}
+
+.water {
+  text-decoration: underline;
+  color: #85ade8;
 }
 /*font-family: 'Unna', serif;/*
 /*font-family: 'Lato', sans-serif;/*

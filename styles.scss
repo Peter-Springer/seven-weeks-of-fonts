@@ -6,80 +6,100 @@ header {
   background-color: black;
   color: white;
   font-weight: 300;
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 .week-1 {
   display: flex;
-  align-items: center;
+  align-items:center;
   flex-direction: column;
-  background: #d7cecd; }
+  background: #d7cecd;
+}
 
 .title {
   border: 2px solid black;
   font-weight: 900;
-  margin: 30px 0 50px 0; }
+  margin: 30px 0 50px 0;
+}
 
 h2 {
   font-family: 'Unna', serif;
   font-size: 30px;
-  margin-bottom: 50px; }
+  margin-bottom: 50px;
+}
 
 h3 {
   font-family: 'Lato', sans-serif;
-  font-size: 40px; }
+  font-size: 40px;
+}
 
 .fire {
   color: #ff6300;
   text-shadow: 2px 2px black;
   font-weight: 900;
-  font-size: 40px; }
+  font-size: 40px;
+}
 
 .water {
   color: #85ade8;
-  text-shadow: 2px 2px black; }
+  text-shadow: 2px 2px black;
+}
 
 .week-1-fonts {
-  margin: 30px 0; }
+  margin: 30px 0;
+}
 
 .week-1-font-links-1 {
   text-decoration: none;
   font-size: 20px;
-  font-family: 'Unna', serif; }
+  font-family: 'Unna', serif;
+}
 
 .week-1-font-links-2 {
   text-decoration: none;
   font-size: 20px;
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Lato', sans-serif;
+}
 
 .unna-color {
   color: #ff6300;
-  text-shadow: 1px 1px black; }
+  text-shadow: 1px 1px black;
+}
 
 .lato-color {
   color: #85ade8;
-  text-shadow: 1px 1px black; }
+  text-shadow: 1px 1px black;
+}
+
+//week-2
 
 .week-2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  height: 50vh;
-  background-color: yellow; }
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+height: 50vh;
+background-color: yellow;
+}
 
 .two-sans {
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
   transform: skewX(25deg);
-  line-height: 1.5em; }
+  line-height: 1.5em;
+}
 
 .week-2-font-links-1 {
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Open Sans', sans-serif;
+}
 
-.vollkorn {
-  font-family: 'Vollkorn', serif; }
+.vollkorn{
+  font-family: 'Vollkorn', serif;
+}
 
 .animal {
-  color: red; }
+  color: red;
+}
+.two-text-container {
 
-/*# sourceMappingURL=styles.css.map */
+}

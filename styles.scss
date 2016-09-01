@@ -79,21 +79,16 @@ justify-content: center;
 align-items: center;
 flex-direction: column;
 height: 50vh;
-background-color:#acd6e3;
+background-color:#877e83;
+font-family: 'Open Sans', sans-serif;
 // border: 2px solid black;
 }
-//
-// img {
-//   background-image: url("img/potatoe.jpg");
-//   background-repeat: no-repeat;
-//   background-size: contain;
-// }
 
 .two-sans {
   font-family: 'Open Sans', sans-serif;
   font-size: 45px;
   transform: skewX(40deg);
-  line-height: 1.5em;
+  line-height: 60px;
   font-weight: 900;
   color: #fefefe;
   text-shadow: 2px 2px 1px #000,
@@ -101,17 +96,29 @@ background-color:#acd6e3;
 
 .week-2-font-links-1 {
   font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px 2px 1px #000,
 }
 
-.vollkorn{
+.week-2-font-links-2 {
   font-family: 'Vollkorn', serif;
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px 2px 1px #000,
 }
 
-.animal {
-  color: red;
-  font-weight: 900;
+.vollkorn {
+  font-family: 'Vollkorn', serif;
+  font-size: 25px;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 1px white,
 }
-.two-text-container {
-  // border: 2px solid black;
-  // transform: skewX(25deg);
+
+.title-two {
+  border: 2px solid black;
+}
+
+.week-2-fonts {
+  text-decoration: none;
 }

@@ -101,4 +101,13 @@ h3 {
 .week-2-fonts {
   text-decoration: none; }
 
+.week-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50vh;
+  background-color: red;
+  font-family: 'Arvo', serif; }
+
 /*# sourceMappingURL=styles.css.map */

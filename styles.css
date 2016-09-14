@@ -102,12 +102,29 @@ h3 {
   text-decoration: none; }
 
 .week-3 {
+  text-align: center;
+  height: 50vh;
+  background-color: green;
+  font-family: 'Arvo', serif;
+  font-size: 20px; }
+
+.week-3-fonts {
   display: flex;
   justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  height: 50vh;
-  background-color: red;
+  font-family: 'Noto Sans', sans-serif; }
+
+.quote-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.week-3-font-links-1 {
   font-family: 'Arvo', serif; }
+
+.week-3-font-links-2 {
+  font-family: 'Noto Sans', sans-serif; }
+
+.moderation {
+  font-family: 'Noto Sans', sans-serif; }
 
 /*# sourceMappingURL=styles.css.map */

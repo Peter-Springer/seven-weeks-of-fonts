@@ -126,14 +126,49 @@ font-family: 'Open Sans', sans-serif;
 ///week 3
 
 .week-3 {
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
+// display: flex;
+// justify-content: center;
+text-align: center;
+// align-items: center;
+// flex-direction: column;
 height: 50vh;
 background-color:green;
 font-family: 'Arvo', serif;
+font-size: 20px;
 // border: 2px solid black;
+}
+
+// .week-3-wrapper {
+//   display: flex;
+//   // justify-content: center;
+//   align-items: center;
+// }
+
+.week-3-fonts {
+  display: flex;
+  justify-content: center;
+  // flex-direction: column;
+  // margin-top: 250px;
+  // margin-right: 200px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.quote-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.week-3-font-links-1 {
+  font-family: 'Arvo', serif;
+}
+
+.week-3-font-links-2 {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.moderation {
+  font-family: 'Noto Sans', sans-serif;
 }
 
 // font-family: 'Arvo', serif;
